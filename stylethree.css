@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    overflow: y;
+}
+.d-flex {
+    width: 500px;
+}
+.p{
+    font-size: 50px;
+}
+.nav-item{
+    cursor: pointer;
+}
+footer{
+    cursor: pointer;
+}
